@@ -7,12 +7,10 @@
 @import "base/animation";
 @import "base/utilities";
 
-@import "components/buttons";
-
+@import "layout/grid";
 @import "layout/header";
 
+@import "components/composition.scss";
+@import "components/buttons";
+
 @import "pages/home";
-
-
-
-
